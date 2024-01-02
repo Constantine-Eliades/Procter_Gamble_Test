@@ -1,0 +1,8 @@
+data_paths:
+  customers: Data/olist_customers_dataset.csv
+  orders: Data/olist_orders_dataset.csv
+  order_items: Data/olist_order_items_dataset.csv
+  products: Data/olist_products_dataset.csv
+output_path: Data/weekly_sales
+partition_by: 
+  - product_id

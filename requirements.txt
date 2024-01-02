@@ -1,0 +1,6 @@
+pandas
+pytest
+pyarrow
+pyyaml
+pydantic
+flake8

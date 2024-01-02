@@ -1,0 +1,4 @@
+product_id : string,
+product_category_name : string,
+price_sum : float64,
+week_start_date : datetime
